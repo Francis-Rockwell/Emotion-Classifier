@@ -1,2 +1,3 @@
 # Emotion-Classifier
-Replanted course porject from my Introduction to AI class
+Replanted course project from my Introduction to AI class
+This project classifies text into two categories, positive and negative, implements basic MLP, CNN, and RNN models and compares their performance.
